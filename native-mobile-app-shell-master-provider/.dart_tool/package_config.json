@@ -1142,13 +1142,13 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "native_app_shell_mobile",
+      "name": "rongta_provider",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-01-07T18:45:43.922841Z",
+  "generated": "2025-01-07T20:37:56.143187Z",
   "generator": "pub",
   "generatorVersion": "3.6.0",
   "flutterRoot": "file:///C:/Users/PC-P14s/Downloads/flutter_windows_3.27.1-stable/flutter/flutter",

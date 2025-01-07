@@ -1,4 +1,4 @@
-package com.backendless.native_app_shell
+package space.rongta.provider
 
 import io.flutter.embedding.android.FlutterActivity
 

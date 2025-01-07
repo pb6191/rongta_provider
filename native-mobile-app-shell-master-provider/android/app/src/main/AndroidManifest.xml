@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.backendless.native_app_shell">
+    package="space.rongta.provider">
    <application
-        android:label="native app shell"
+        android:label="rongta_provider"
         android:icon="@mipmap/ic_launcher"
         android:usesCleartextTraffic="true">
        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
