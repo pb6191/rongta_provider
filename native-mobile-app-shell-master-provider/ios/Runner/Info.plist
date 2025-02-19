@@ -84,6 +84,8 @@
 	</array>
 	<key>NSCalendarsUsageDescription</key>
 	<string>Calendars</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>This app does not use Bluetooth directly, but certain features or third-party integrations may require limited access.</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Camera permission is required to scan QR codes.</string>
 	<key>NSContactsUsageDescription</key>
@@ -117,7 +119,6 @@
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>fetch</string>
-		<string>location</string>
 		<string>remote-notification</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
