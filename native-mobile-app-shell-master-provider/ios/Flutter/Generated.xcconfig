@@ -1,11 +1,11 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=C:\Users\PC-P14s\Downloads\flutter_windows_3.27.1-stable\flutter\flutter
-FLUTTER_APPLICATION_PATH=C:\Users\PC-P14s\Desktop\native-mobile-app-shell-master-provider\native-mobile-app-shell-master-provider
+FLUTTER_ROOT=/Users/user273677/development/flutter
+FLUTTER_APPLICATION_PATH=/Users/user273677/Documents/rongta_provider/native-mobile-app-shell-master-provider
 COCOAPODS_PARALLEL_CODE_SIGN=true
-FLUTTER_TARGET=lib\main.dart
+FLUTTER_TARGET=lib/main.dart
 FLUTTER_BUILD_DIR=build
 FLUTTER_BUILD_NAME=1.0.0
-FLUTTER_BUILD_NUMBER=1
+FLUTTER_BUILD_NUMBER=6
 EXCLUDED_ARCHS[sdk=iphonesimulator*]=i386
 EXCLUDED_ARCHS[sdk=iphoneos*]=armv7
 DART_OBFUSCATION=false
