@@ -1,8 +1,8 @@
 {
   "serverURL": "https://api.backendless.com",
   "filesURL": "https://api.backendless.com",
-  "appId": "089F5B41-987A-48D1-8017-1A08D848DA19",
+  "appId": "002AC823-2F83-473D-802A-F97E78A09C58",
   "apiKey": "3040A916-6FF3-4850-ABDC-698B6AED192B",
-  "filesDomain": "tempeansalt-us.backendless.app",
+  "filesDomain": null,
   "automationServerURL": "https://api.backendless.com"
 }
