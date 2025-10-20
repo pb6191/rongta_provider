@@ -1,0 +1,1 @@
+ /Users/user282010/Documents/rongta_provider/native-mobile-app-shell-master-provider/.dart_tool/flutter_build/86ea69469fcd5474bdd81139130d630b/native_assets.json: 

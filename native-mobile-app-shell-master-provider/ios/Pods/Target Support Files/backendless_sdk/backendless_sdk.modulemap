@@ -1,0 +1,6 @@
+framework module backendless_sdk {
+  umbrella header "backendless_sdk-umbrella.h"
+
+  export *
+  module * { export * }
+}
