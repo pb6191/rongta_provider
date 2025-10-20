@@ -7,7 +7,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Rongta Work</string>
+	<string>NailTechsAtHome</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +15,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>space.rongta.provider</string>
+	<string>nail.techs.at.home</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -58,6 +58,8 @@
 	<string>xxx</string>
 	<key>FacebookClientToken</key>
 	<string>fxxx</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
 	<key>FacebookDisplayName</key>
 	<string>native app shell</string>
 	<key>FlutterDeepLinkingEnabled</key>
@@ -69,8 +71,6 @@
 		<string>fbauth2</string>
 		<string>fbshareextension</string>
 	</array>
-	<key>LSRequiresIPhoneOS</key>
-	<true/>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
@@ -78,14 +78,14 @@
 	</dict>
 	<key>NSAppleMusicUsageDescription</key>
 	<string>Music!</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>This app does not use Bluetooth directly, but certain features or third-party integrations may require limited access.</string>
 	<key>NSBonjourServices</key>
 	<array>
 		<string>_dartobservatory._tcp</string>
 	</array>
 	<key>NSCalendarsUsageDescription</key>
 	<string>Calendars</string>
-	<key>NSBluetoothAlwaysUsageDescription</key>
-	<string>This app does not use Bluetooth directly, but certain features or third-party integrations may require limited access.</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Camera permission is required to scan QR codes.</string>
 	<key>NSContactsUsageDescription</key>
